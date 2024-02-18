@@ -16,7 +16,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 200px;
+  padding: 10px 100px;
 }
 
 .logo {
@@ -49,7 +49,7 @@ section {
   align-items: center;
   background: url(images/background.JPG) no-repeat;
   background-size: cover;
-  background-position: center top 25%;
+  background-position: center top 20%;
 }
 
 .main h2 {
